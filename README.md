@@ -1,3 +1,21 @@
+## DecTech Podcast Web 📢
+C001 - Entorno de Trabajo y Control de Versiones
+PROFESORA: SAMANTA FARFAN
+ALUMNA: BENICIO ROXANA
+
+
+#📦 Módulo FINAL: Entorno de trabajo y control de versiones
+
+Introducción
+Hola! 😄 Este proyecto realizado para control de versionamiento. lOS CONTENIDOS SON git github y Markdown. 
+
+
+
+Consigna 📄
+
+
+
+
 # Notas para el trabajo practico
 8)---1.primera modificación
 8)---2.SEGUNDA MODIFICACION DEL README.md veamos si funciona
