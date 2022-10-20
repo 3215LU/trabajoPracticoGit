@@ -1,4 +1,5 @@
-# DecTech Podcast Web 📢
+## DecTech Podcast Web 📢
+
 C001 - Entorno de Trabajo y Control de Versiones
 PROFESORA: SAMANTA FARFAN
 ALUMNA: BENICIO ROXANA
@@ -7,6 +8,7 @@ ALUMNA: BENICIO ROXANA
 #📦 Módulo FINAL: Entorno de trabajo y control de versiones
 
 Introducción
+
 Hola! 😄 Este proyecto realizado para control de versionamiento.LOS CONTENIDOS SON:
  # * git
  # * github y
@@ -62,7 +64,6 @@ realizar el commit.
 23. Desde GitHub, eliminar el archivo creado en el punto anterior.
 24. Ir a su repositorio LOCAL, actualizar las referencias del mismo y también traer los
 cambios del repositorio remoto.
-
 
 
 # Notas para el trabajo practico
